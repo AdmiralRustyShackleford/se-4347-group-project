@@ -6,4 +6,4 @@ CREATE TABLE Team (
     wins INT,
     losses INT,
     PRIMARY KEY (name)
-)
+);
